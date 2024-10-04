@@ -7,4 +7,4 @@
 ## Pull me up @
 
 - LinkedIn: [(https://www.linkedin.com/in/leo-gabriel-rentazida-8a063a279/)]
-- Email: leo.rentazida@neu.edu.ph
+- Email: 09123lebios@gmail.com
