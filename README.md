@@ -6,5 +6,5 @@
 
 ## Pull me up @
 
-- LinkedIn: [(https://www.linkedin.com/in/leo-gabriel-rentazida-8a063a279/)]
+- LinkedIn: (https://www.linkedin.com/in/leo-gabriel-rentazida-8a063a279/)
 - Email: 09123lebios@gmail.com
