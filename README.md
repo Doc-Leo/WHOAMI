@@ -1,5 +1,5 @@
 # Doc Leo
-<img src="https://tryhackme-badges.s3.amazonaws.com/leo.rentazida.png" alt="Your Image Badge" />
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3770144" style='border:none;'></iframe>
 
 ![1372963](https://www.codewars.com/users/Doc-Leo/badges/large)
 <a href="https://app.daily.dev/dcleo"><img src="https://api.daily.dev/devcards/v2/RKuZ3mFuz6ACy9y5VPLZi.png?type=wide&r=o4v" width="652" alt="doc-leo's Dev Card"/></a>
