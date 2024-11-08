@@ -1,5 +1,5 @@
 # Doc Leo
-<s href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3770144"/></s>
+
 
 ![1372963](https://www.codewars.com/users/Doc-Leo/badges/large)
 <img src="https://tryhackme-badges.s3.amazonaws.com/leo.rentazida.png" width="652" alt="Your Image Badge"  />
@@ -10,6 +10,6 @@
 
 
 ## Pull me up @
-
+-<s href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3770144"/></s>
 - LinkedIn: (https://www.linkedin.com/in/leo-gabriel-rentazida-8a063a279/)
 - Email: 09123lebios@gmail.com
