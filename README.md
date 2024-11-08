@@ -1,7 +1,7 @@
 # Doc Leo
-<img src="https://tryhackme-badges.s3.amazonaws.com/leo.rentazida.png" width="652" alt="Your Image Badge" style='border✈️;' />
 
 ![1372963](https://www.codewars.com/users/Doc-Leo/badges/large)
+<img src="https://tryhackme-badges.s3.amazonaws.com/leo.rentazida.png" width="652" alt="Your Image Badge" style='border✈️;' />
 <a href="https://app.daily.dev/dcleo"><img src="https://api.daily.dev/devcards/v2/RKuZ3mFuz6ACy9y5VPLZi.png?type=wide&r=o4v" width="652" alt="doc-leo's Dev Card"/></a>
 ![1372963](https://github.com/user-attachments/assets/240330f1-031c-4622-99c7-e1d40f69d892)
 
