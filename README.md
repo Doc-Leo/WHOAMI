@@ -8,6 +8,8 @@
 
 ![1372963](https://github.com/user-attachments/assets/240330f1-031c-4622-99c7-e1d40f69d892)
 
+<div data-sentry-element="StyledSectionBox" data-sentry-component="SkillMatrix" data-sentry-source-file="skill-matrix.tsx" class="sc-jXbUNg sc-kmIzyc gTnkUr gnwNju"><div data-sentry-element="StyledFlex" data-sentry-source-file="skill-matrix.tsx" class="sc-eqUAAy jyuuYU"><h2 data-sentry-element="StyledQuestionTitle" data-sentry-source-file="skill-matrix.tsx" class="sc-jaZhys sc-FRLZm kppOa-d iqtRzT">Skills Matrix</h2><span data-sentry-element="StyledBetaTag" data-sentry-source-file="skill-matrix.tsx" class="sc-gXWSIX kwkIQF">Beta</span></div><div data-sentry-element="StyledRadarChartWrapper" data-sentry-source-file="skill-matrix.tsx" class="sc-ljrlFc irVOJC"><div class="sc-gmaIPR ewOGfA"><canvas role="img" height="275" width="322" aria-label="Radar Skills Matrix" style="display: block; box-sizing: border-box; height: 315px; width: 368px;"></canvas></div></div></div>
+
 
 
 
