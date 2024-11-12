@@ -1,6 +1,6 @@
 # Doc Leo
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3770144" style='border:none;'></iframe>
+
 
 ![1372963](https://www.codewars.com/users/Doc-Leo/badges/large )
 
