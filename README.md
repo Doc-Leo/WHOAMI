@@ -18,8 +18,6 @@
 
 
 ## Pull me up @
-  ![Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3770144)
-[View Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3770144)
 
 - LinkedIn: (https://www.linkedin.com/in/leo-gabriel-rentazida-8a063a279/)
 - Email: 09123lebios@gmail.com
