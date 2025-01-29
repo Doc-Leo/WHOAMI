@@ -1,5 +1,6 @@
 # Doc Leo
 
+[View Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3770144)
 
 
 ![1372963](https://www.codewars.com/users/Doc-Leo/badges/large )
