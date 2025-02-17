@@ -14,7 +14,7 @@
 
 
 
-https://github-profile-trophy.vercel.app/?username=Doc-Leo&theme=dracula
+https://github-profile-trophy.vercel.app/?username=doc-leo&theme=dracula
 
 
 ## Pull me up @
