@@ -16,7 +16,6 @@
 
 ![1372963](https://github-profile-trophy.vercel.app/?username=Doc-Leo&theme=dracula)
 
-![1372963](https://app.hackthebox.com/profile/2174915)
 ## Pull me up @
 
 - LinkedIn: (https://www.linkedin.com/in/leo-gabriel-rentazida-8a063a279/)
