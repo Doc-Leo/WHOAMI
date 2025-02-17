@@ -14,7 +14,7 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Doc-Leo)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## Pull me up @
