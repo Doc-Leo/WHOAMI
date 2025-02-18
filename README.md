@@ -1,6 +1,5 @@
 # Doc Leo
 
-[My Hack The Box Profile](https://www.hackthebox.eu/profile/your-profile-id)
 
 ![1372963](https://github-profile-trophy.vercel.app/?username=Doc-Leo&theme=dracula)
 ![1372963](https://www.codewars.com/users/Doc-Leo/badges/large )
@@ -21,5 +20,9 @@
 
 ## Pull me up @
 
-- LinkedIn: (https://www.linkedin.com/in/leo-gabriel-rentazida-8a063a279/)
+
+
+
+[LinkedIn](https://www.linkedin.com/in/leo-gabriel-rentazida-8a063a279/)
+
 - Email: 09123lebios@gmail.com
