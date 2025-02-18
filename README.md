@@ -24,6 +24,7 @@
 
 
 [LinkedIn](https://www.linkedin.com/in/leo-gabriel-rentazida-8a063a279/)
+
 [Gmail](09123leogabriel@gmail.com)
 
 
