@@ -1,5 +1,5 @@
 # Doc Leo
-![tryhackme stats](https://raw.githubusercontent.com/<dc730>/<dc730>/master/assets/thm_propic.png)
+
 
 
 ![1372963](https://github-profile-trophy.vercel.app/?username=Doc-Leo&theme=dracula)
